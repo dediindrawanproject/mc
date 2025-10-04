@@ -97,3 +97,10 @@ body {
   .link-btn { font-size: 14px; padding: 14px; }
   .profile-img { width: 100px; height: 100px; }
 }
+
+.copyright {
+  font-size: 12px;
+  opacity: 0.8;
+  margin-top: 20px;
+  text-align: center;
+}
